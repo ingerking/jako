@@ -2,7 +2,7 @@
 
 ===============
 
-![homepage](./keykanon/sample/thumbnail.png)
+![homepage](./Jako/thumbnail.png)
 
 ##0.  들어가기 전에   
 동아리 여름방학 프로젝트로 만든 게임입니다.  
